@@ -25,8 +25,8 @@
     "react-helmet": "6.1.0",
     "react-markdown": "4.3.1",
     "react-syntax-highlighter": "13.5.1",
-    "react-typography": "0.16.19",
-    "typography": "0.16.19"
+    "react-typography": "0.16.23",
+    "typography": "0.16.24"
   },
   "devDependencies": {
     "prettier": "2.1.0"
